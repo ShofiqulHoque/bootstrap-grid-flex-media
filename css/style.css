@@ -1,0 +1,23 @@
+.box{
+	background-color:blue;
+	min-height: 100px;
+	margin-bottom: 5px;
+}
+
+.f_height{
+	min-height: 300px;
+	border: 1px solid red;
+
+}
+
+.box1{
+	background-color:black;
+	min-height: 100px;
+	margin-bottom: 5px;
+}
+
+.box2{
+	background-color:red;
+	min-height: 100px;
+	margin-bottom: 5px;
+}
